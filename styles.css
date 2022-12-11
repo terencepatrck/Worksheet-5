@@ -32,13 +32,14 @@ ul{
     margin-left: auto;
 }
 
-li{
+button{
+    border: 1px solid blueviolet;
+    border-radius: 5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
     padding: 10px;
-    margin: 0px 3px;
-    border: 1px solid limegreen;
-    border-radius: 10px;
-    background-color: aliceblue;
+    margin: 2px;
+    transition-duration: .4s;
 }
 /* section one flex grow and shrink */
 
